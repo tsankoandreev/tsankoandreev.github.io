@@ -86,3 +86,5 @@ author:
     - skill5:
       name: HTML/CSS
       percentage: 90%
+
+theme: jekyll-theme-merlot
