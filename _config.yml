@@ -1,0 +1,88 @@
+# Site settings
+title: Tsanko Andreev's CV 
+description: Tsanko Andreev's CV
+favicon: /assets/img/avatar.JPG
+baseurl: ""
+url: "http://localhost:4000"
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Tsanko Andreev
+  title: Fullstack .NET Web Developer
+  address: Sofia, Bulgaria
+  email: tsankoandreev#hotmail.com
+  link: http://tsankoandreev.com
+  weibo:
+  github: tsankoandreev
+  linkedin: tsankoandreev
+  twitter: 
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+  workHistory:
+    - work1:
+      company: Empiriu AD
+      location: Sofia, Bulgaria
+      title: Full Stack .Net Web Developer
+      started: 2016
+      duration: (06/2016 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work2:
+      company: DAIS Software Ltd
+      location: Sofia, Bulgaria
+      title: Full Stack .Net Web Developer
+      started: 2012
+      duration: (08/2013 - 06/2016)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: Pentagon Interactive
+      location: Sofia, Bulgaria
+      title: Web Developer
+      started: 2013
+      duration: (01/2013 - 08/2013)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  educationHistory:
+    - education1:
+      organization: Technical University of Gabrovo
+      location: Gabrovo, Bulgaria
+      degree: Bachelor
+      major: Comunnication Technics and Technologies
+      started: 2007
+      duration: (2007 - 2012)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - education2:
+      organization: Mathematics High School
+      location: Lovech, Bulgaria
+      degree: Student
+      major: Informatics
+      started: 2002
+      duration: (2002 - 2007)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  languages:
+    - language1:
+      name: Bulgarian
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: C#
+      percentage: 99%
+    - skill2:
+      name: ASP.NET
+      percentage: 99%
+    - skill3:
+      name: SQL
+      percentage: 70%
+    - skill4:
+      name: JavaScript
+      percentage: 70%
+    - skill5:
+      name: HTML/CSS
+      percentage: 90%
