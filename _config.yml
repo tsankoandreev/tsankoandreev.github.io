@@ -46,7 +46,7 @@ author:
       started: 2013
       duration: (01/2013 - 08/2013)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
+   educationHistory:
     - education1:
       organization: Technical University of Gabrovo
       location: Gabrovo, Bulgaria
@@ -54,7 +54,6 @@ author:
       major: Comunnication Technics and Technologies
       started: 2007
       duration: (2007 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - education2:
       organization: Mathematics High School
       location: Lovech, Bulgaria
@@ -62,7 +61,15 @@ author:
       major: Informatics
       started: 2002
       duration: (2002 - 2007)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  certificatesAndCourses:
+    - course1:
+      src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAARVBMVEXwUSV/u0IyoNr9uBP////vRgz4u7HK4bd4uDWz1u7+4K4gnNj9tQD4uK3I4LSw1O7vOgBytSX84d3n8d/e7ff/8dwAl9fP6I05AAABIUlEQVR4nO3PRw7CQBAAwQGcjQPx/0/lynLkMNJa1R9oVURSbdd81w+npLKAhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISHFLZJ7UshXG9DUtEltdwL4WPtk4rm6BHWH2H9EdYfYf0R1h9h/cWY1PYsvq8pq5iTem+FcLpmFeek5vFHeEmKkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJDw/z45r46NoCOtpQAAAABJRU5ErkJggg==
+      name: Microsoft Certified Professional
+      href: "http://www.mycertprofile.com/Profile/2537153504"
+    - course2:
+      src: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAARVBMVEXwUSV/u0IyoNr9uBP////vRgz4u7HK4bd4uDWz1u7+4K4gnNj9tQD4uK3I4LSw1O7vOgBytSX84d3n8d/e7ff/8dwAl9fP6I05AAABIUlEQVR4nO3PRw7CQBAAwQGcjQPx/0/lynLkMNJa1R9oVURSbdd81w+npLKAhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISHFLZJ7UshXG9DUtEltdwL4WPtk4rm6BHWH2H9EdYfYf0R1h9h/cWY1PYsvq8pq5iTem+FcLpmFeek5vFHeEmKkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJDw/z45r46NoCOtpQAAAABJRU5ErkJggg==
+      name: "Microsoft® Specialist: Programming in C#"
+      href: "http://www.mycertprofile.com/Profile/2537153504/90/1486"
   languages:
     - language1:
       name: Bulgarian
@@ -78,10 +85,10 @@ author:
       name: ASP.NET
       percentage: 99%
     - skill3:
-      name: SQL
-      percentage: 70%
-    - skill4:
       name: JavaScript
+      percentage: 80%
+    - skill4:
+      name: SQL
       percentage: 70%
     - skill5:
       name: HTML/CSS
