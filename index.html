@@ -223,11 +223,13 @@ layout: default
                     {% for course in site.author.courses %}
                     <li style="margin-top: 10px;">
                       <div class="row">
-                        <div class="col-sm-1 p-2">
+                        <div class="col-sm-1 p-2" style="margin-top: 10px;">
                             <img src="{{ course.src }}" class="img-no-padding img-responsive">
                         </div>
                         <div class="col-sm-8">
                           {{ course.name }}
+                          <br />
+                          <small class="text-muted">{{ course.slogan }}</small>
                         </div>
                         <div class="col-sm-3 text-right">
                           <a href="{{course.href}}"><i class="fa fa-external-link"></i></a>
