@@ -48,26 +48,26 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   offWorkHistory:
     - work1:
-      company: Empiriu AD
+      company: ERP Project "Intent" (Freelance)
       location: Sofia, Bulgaria
-      title: Full Stack .Net Web Developer
-      started: 2016
-      duration: (06/2016 - Present)
+      title: .Net Developer
+      started: 2017
+      duration: (09/2017 - 06/2018)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: DAIS Software Ltd
-      location: Sofia, Bulgaria
-      title: Full Stack .Net Web Developer
-      started: 2013
-      duration: (08/2013 - 06/2016)
-      description: Develop and maintain scalable solutions for Electronic channels at Banking & Financial Services Industry. Company was delivering solutions for most of the commercial banks in Bulgaria. As software developer I had the responsibility for implementing, testing own code and bug fixing. Working with Agile methodology and constantly implementing new features. Technologies used on daily basis ware C#, ASP.NET MVC, XML, AJAX, JSON, JQuery as well as web services, WCF and IBM MQ messaging. For dev environment using a Visual Studio 2012/2013, database querying with MSSQL 2008/2012 and Code Reviewing with Microsoft TFS.
-    - work3:
-      company: Pentagon Interactive
+      company: Tryggidse (Freelance)
       location: Sofia, Bulgaria
       title: Web Developer
-      started: 2013
-      duration: (01/2013 - 08/2013)
+      started: 2017
+      duration: (12/2017 - 03/2018)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: Vkasis LTD (Freelance)
+      location: Lovech, Bulgaria
+      title: Front End Developer
+      started: 2012
+      duration: (10/2012 - 01/2013)
+      description: In team of two developed new website for the company using HTML5, CSS3, JS, JQuery. Backend was PHP. Designed all of the company Logos, Banners, Bilboards etc. via Photoshop and Illustrator.
   educationHistory:
     - education1:
       organization: Technical University of Gabrovo
