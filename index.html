@@ -48,7 +48,7 @@ layout: default
              {% if site.author.offWorkHistory %}
                 <h3 class="title with-icon"><span class="glyphicon glyphicon-plane cat-title"></span>Off Work History</h3>
                 <ul class="timeline">
-                    {% for work in site.author.workHistory %}
+                    {% for work in site.author.offWorkHistory %}
                         <li class="timeline-inverted">
                             {% if work.started %}
                                 <div class="timeline-badge info">{{ work.started }}</div>
