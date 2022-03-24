@@ -1,7 +1,7 @@
 # Site settings
 title: Tsanko Andreev's CV 
 description: Tsanko Andreev's CV
-favicon: ../assets/img/avatar.jpg
+favicon: /assets/img/avatar.jpg
 baseurl: "https://tsankoandreev.github.io"
 url: "https://tsankoandreev.github.io"
 rss_url: /pages/atom.xml
