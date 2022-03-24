@@ -1,6 +1,10 @@
 _site
 .sass-cache
 .idea
+.git
+.bundle
+.jekyll-cache
+bin
 resumecard.iml
 /*.iml
 Gemfile.lock

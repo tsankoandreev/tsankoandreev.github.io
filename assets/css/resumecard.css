@@ -142,7 +142,10 @@ hr {
     margin-left: -1.5px;
     left: 2%;
 }
-
+.timeline .work-link{
+    margin-left: 2em;
+    font-style: italic;
+}
 .timeline > li {
     margin-bottom: 20px;
     position: relative;
